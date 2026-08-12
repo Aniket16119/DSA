@@ -1,2 +1,31 @@
-# DSA
-## DSA — Data Structures & Algorithms  A structured collection of my journey through **Data Structures and Algorithms**, featuring implementations, problem-solving approaches, and solutions across multiple programming languages.  The repository covers fundamental to advanced concepts including **arrays, strings, linked lists, stacks, queues, trees, graphs, hashing, recursion, dynamic programming, greedy algorithms, sorting, searching, and more**.  Solutions are organized by topic and language with a focus on **clean code, optimized approaches, complexity analysis, and consistent problem-solving**.  **Languages:** C • C++ • Java • Python • JavaScript  > Learning. Solving. Optimizing. Building strong problem-solving skills one algorithm at a time.
+# Data Structures & Algorithms (DSA)
+
+[![Languages](https://img.shields.io/badge/Languages-C_|_C++_|_Java_|_Python_|_JS-blue.svg)](#)
+[![Focus](https://img.shields.io/badge/Focus-Clean_Code_&_Optimization-brightgreen.svg)](#)
+[![Author](https://img.shields.io/badge/Author-Aniket-orange.svg)](#)
+
+> **Learning. Solving. Optimizing.**
+
+A production-ready collection of Data Structures and Algorithms solutions. This repository demonstrates problem-solving approaches with an emphasis on optimal solutions, clean code, and complexity analysis across multiple programming languages.
+
+---
+
+## Key Highlights
+
+- **Professional Standards:** Clean naming conventions, modularity, and readability.
+- **Complexity Analysis:** Explicit Time and Space Complexity breakdowns (e.g., $O(N)$ Time, $O(1)$ Space).
+- **Structured Progression:** Solutions transition logically from Brute-Force to Optimal.
+- **Polyglot Implementations:** Code provided in C, C++, Java, Python, and JavaScript.
+
+---
+
+## Comprehensive Coverage
+
+| Category | Topics Covered |
+| :--- | :--- |
+| **Linear Structures** | Arrays, Strings, Linked Lists, Stacks, Queues |
+| **Non-Linear Structures**| Trees (BST, AVL), Graphs, Heaps, Tries |
+| **Algorithmic Patterns** | Dynamic Programming, Greedy, Backtracking, Two Pointers |
+
+---
+
